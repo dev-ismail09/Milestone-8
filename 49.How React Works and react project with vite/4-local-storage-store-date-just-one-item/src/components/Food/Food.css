@@ -1,0 +1,21 @@
+.food-style{
+   background-color: darkgray;
+   color: white;
+   border-radius: 10px;
+}
+
+.food-style img{
+    width: 100%;
+}
+
+.food-style h1{
+    font-size: 35px;
+}
+
+.food-style button{
+    margin-bottom: 20px;
+}
+
+.food-style button {
+    margin-right: 15px;
+}
